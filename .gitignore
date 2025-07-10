@@ -77,7 +77,6 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-.virtual_documents/
 
 # IPython
 profile_default/
@@ -179,6 +178,9 @@ cython_debug/
 *.db.lock
 *.zip
 deepseek/api/milvus_docs/*
+mcp/dev*
+a2a/*
 
 .DS_Store
 .vscode/
+.virtual_documents/
